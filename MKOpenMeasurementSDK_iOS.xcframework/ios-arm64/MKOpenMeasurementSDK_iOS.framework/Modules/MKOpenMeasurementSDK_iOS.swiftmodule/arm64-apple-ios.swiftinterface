@@ -1,0 +1,38 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)
+// swift-module-flags: -target arm64-apple-ios12.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name MKOpenMeasurementSDK_iOS
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import AVFoundation
+import BitmovinPlayer
+import Foundation
+@_exported import MKOpenMeasurementSDK_iOS
+import MKPlayer
+import OMSDK_Turner
+import OSLog
+import Swift
+import _Concurrency
+import _StringProcessing
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers final public class MKPOMManager : ObjectiveC.NSObject {
+  public static let shared: MKOpenMeasurementSDK_iOS.MKPOMManager
+  final public var playerEventListener: (any MKPPlayerEventListener)?
+  @objc deinit
+}
+public class OMSDKHandler {
+  public init()
+  public init(withPlayer: any MKPPlayerAPI, playerView: UIKit.UIView)
+  @objc deinit
+}
+extension MKOpenMeasurementSDK_iOS.OMSDKHandler : MKPPlayerEventListener {
+  public func onAdStarted(event: MKPAdStartedEvent)
+  public func onAdQuartile(event: MKPAdQuartileEvent)
+  public func onAdBreakStarted(event: MKPAdBreakStartedEvent)
+  public func onAdFinished(event: MKPAdFinishedEvent)
+  public func onAdBreakEnd(event: MKPAdBreakEndEvent)
+  public func onPlay(event: MKPPlayEvent)
+  public func onPaused(event: MKPPausedEvent)
+  public func onMuted(event: MKPMutedEvent)
+  public func onUnmuted(event: MKPUnmutedEvent)
+  public func onSourceUnloaded(event: MKPSourceUnloadedEvent)
+  public func onStallStarted(event: MKPStallStartedEvent)
+  public func onStallEnded(event: MKPStallEndedEvent)
+}
