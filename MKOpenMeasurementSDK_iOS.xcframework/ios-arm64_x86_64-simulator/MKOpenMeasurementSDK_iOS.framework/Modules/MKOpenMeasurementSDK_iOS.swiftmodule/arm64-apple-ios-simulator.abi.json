@@ -317,15 +317,8 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "MKOpenMeasurementSDK_iOS"
-      },
-      {
-        "kind": "Import",
-        "name": "AVFAudio",
-        "printedName": "AVFAudio",
+        "name": "BitmovinPlayer",
+        "printedName": "BitmovinPlayer",
         "declKind": "Import",
         "moduleName": "MKOpenMeasurementSDK_iOS"
       },
@@ -735,681 +728,681 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "BooleanLiteral",
       "offset": 1409,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "BooleanLiteral",
       "offset": 1515,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "BooleanLiteral",
       "offset": 1793,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "BooleanLiteral",
       "offset": 2068,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 2235,
       "length": 34,
       "value": "\"MKPOMManager: OMID is not active\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "BooleanLiteral",
       "offset": 2329,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 2910,
       "length": 40,
       "value": "\"MKPOMManager: Ad session cannot be nil\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 3179,
       "length": 57,
       "value": "\"MKPOMManager: Unable to instantiate ad events: \""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 3235,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 3328,
       "length": 45,
       "value": "\"MKPOMManager: Starting measurement session.\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 3906,
       "length": 68,
       "value": "\"MKPOMManager: OMID impression error: \""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 3973,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 4495,
       "length": 15,
       "value": "\"firstQuartile\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 4578,
       "length": 10,
       "value": "\"midpoint\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 4651,
       "length": 15,
       "value": "\"thirdQuartile\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 4734,
       "length": 10,
       "value": "\"complete\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 4836,
       "length": 37,
       "value": "\"MKPOMManager: Unknown quartile type\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "BooleanLiteral",
       "offset": 5253,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 5310,
       "length": 39,
       "value": "\"isPlaybackPaused: \""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 5348,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "BooleanLiteral",
       "offset": 5530,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "BooleanLiteral",
       "offset": 5606,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 5678,
       "length": 32,
       "value": "\"MKPOMManager: deinit is called\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 6442,
       "length": 49,
       "value": "\"MKPOMManager: Unable to initialize OMID partner\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 7174,
       "length": 58,
       "value": "\"MKPOMManager: Unable to instantiate ad session: \""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 7231,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 7814,
       "length": 90,
       "value": "\"MKPOMManager: Unable to instantiate session context: verification resource cannot be nil\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 8517,
       "length": 63,
       "value": "\"MKPOMManager: Unable to instantiate session context: \""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 8579,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 8887,
       "length": 55,
       "value": "\"MKPOMManager: Unable to parse Verification Script URL\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "IntegerLiteral",
       "offset": 9071,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "IntegerLiteral",
       "offset": 9095,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "BooleanLiteral",
       "offset": 9846,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 9892,
       "length": 53,
       "value": "\"Unable to create ad session configuration: \""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 9944,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 10287,
       "length": 11,
       "value": "\"jsContent\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 10569,
       "length": 39,
       "value": "\"MKPOMManager : invalid omidServiceUrl\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 11827,
       "length": 53,
       "value": "\"MKPOMManager: Unable to instantiate video ad events\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 12127,
       "length": 10,
       "value": "\"pre-roll\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 12199,
       "length": 10,
       "value": "\"mid-roll\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 12271,
       "length": 11,
       "value": "\"post-roll\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "BooleanLiteral",
       "offset": 12471,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 12600,
       "length": 56,
       "value": "\"MKPOMManager: Unable to trigger loaded event: \""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 12655,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 12864,
       "length": 40,
       "value": "\"com.mediakind.MKOpenMeasurementSDK-iOS\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 12970,
       "length": 28,
       "value": "\"CFBundleShortVersionString\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 13065,
       "length": 7,
       "value": "\"0.0.0\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 13109,
       "length": 8,
       "value": "\"Turner\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 13141,
       "length": 82,
       "value": "\"https:\/\/mkplayer.blob.core.windows.net\/$web\/openmeasurement\/ios_tvos\/omsdk_v1.js\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 14023,
       "length": 10,
       "value": "\"complete\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "BooleanLiteral",
       "offset": 14071,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 14243,
       "length": 15,
       "value": "\"firstQuartile\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 14324,
       "length": 10,
       "value": "\"midpoint\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 14405,
       "length": 15,
       "value": "\"thirdQuartile\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "BooleanLiteral",
       "offset": 14631,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "Array",
       "offset": 14646,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 14998,
       "length": 20,
       "value": "\"MKPlayer: \""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
       "offset": 15017,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
       "kind": "BooleanLiteral",
       "offset": 186,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
       "kind": "BooleanLiteral",
       "offset": 239,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
       "kind": "BooleanLiteral",
       "offset": 298,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
       "kind": "StringLiteral",
       "offset": 464,
       "length": 3,
       "value": "\"D\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
       "kind": "StringLiteral",
       "offset": 715,
       "length": 3,
       "value": "\"E\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
       "kind": "StringLiteral",
       "offset": 966,
       "length": 3,
       "value": "\"I\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
       "kind": "StringLiteral",
       "offset": 1217,
       "length": 3,
       "value": "\"V\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
       "kind": "StringLiteral",
       "offset": 1468,
       "length": 3,
       "value": "\"W\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
       "kind": "StringLiteral",
       "offset": 1719,
       "length": 3,
       "value": "\"S\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
       "kind": "StringLiteral",
       "offset": 2039,
       "length": 144,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
       "kind": "StringLiteral",
       "offset": 2046,
       "length": 1,
       "value": "\"\/\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
       "kind": "StringLiteral",
       "offset": 2074,
       "length": 1,
       "value": "\": [\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
       "kind": "StringLiteral",
       "offset": 2119,
       "length": 1,
       "value": "\":\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
       "kind": "StringLiteral",
       "offset": 2159,
       "length": 1,
       "value": "\":\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
       "kind": "StringLiteral",
       "offset": 2167,
       "length": 1,
       "value": "\"] -> \""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
       "kind": "StringLiteral",
       "offset": 2182,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
       "kind": "StringLiteral",
       "offset": 2248,
       "length": 12,
       "value": "\"%{public}@\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
       "kind": "StringLiteral",
       "offset": 2378,
       "length": 28,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
       "kind": "StringLiteral",
       "offset": 2405,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
       "kind": "StringLiteral",
       "offset": 2570,
       "length": 3,
       "value": "\"\/\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
       "kind": "StringLiteral",
       "offset": 2626,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
       "kind": "StringLiteral",
       "offset": 2786,
       "length": 3,
       "value": "\".\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
       "kind": "StringLiteral",
       "offset": 2984,
       "length": 3,
       "value": "\"(\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/OMSDKHandler.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/OMSDKHandler.swift",
       "kind": "StringLiteral",
-      "offset": 384,
+      "offset": 377,
       "length": 18,
       "value": "\"OMSDK withPlayer\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/OMSDKHandler.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/OMSDKHandler.swift",
       "kind": "StringLiteral",
-      "offset": 589,
+      "offset": 582,
       "length": 25,
       "value": "\"OMSDK withPlayer inside\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/OMSDKHandler.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/OMSDKHandler.swift",
       "kind": "StringLiteral",
-      "offset": 871,
+      "offset": 864,
       "length": 19,
       "value": "\"OMSDK onAdStarted\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/OMSDKHandler.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/OMSDKHandler.swift",
       "kind": "StringLiteral",
-      "offset": 1017,
+      "offset": 1010,
       "length": 20,
       "value": "\"OMSDK onAdQuartile\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/OMSDKHandler.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/OMSDKHandler.swift",
       "kind": "StringLiteral",
-      "offset": 1179,
+      "offset": 1172,
       "length": 24,
       "value": "\"OMSDK onAdBreakStarted\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/OMSDKHandler.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/OMSDKHandler.swift",
       "kind": "StringLiteral",
-      "offset": 1335,
+      "offset": 1328,
       "length": 20,
       "value": "\"OMSDK onAdFinished\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/OMSDKHandler.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/OMSDKHandler.swift",
       "kind": "StringLiteral",
-      "offset": 1483,
+      "offset": 1476,
       "length": 20,
       "value": "\"OMSDK onAdBreakEnd\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/OMSDKHandler.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/OMSDKHandler.swift",
       "kind": "StringLiteral",
-      "offset": 1624,
+      "offset": 1617,
       "length": 14,
       "value": "\"OMSDK onPlay\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/OMSDKHandler.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/OMSDKHandler.swift",
       "kind": "StringLiteral",
-      "offset": 1777,
+      "offset": 1770,
       "length": 16,
       "value": "\"OMSDK onPaused\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/OMSDKHandler.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/OMSDKHandler.swift",
       "kind": "StringLiteral",
-      "offset": 1925,
+      "offset": 1918,
       "length": 15,
       "value": "\"OMSDK onMuted\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/OMSDKHandler.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/OMSDKHandler.swift",
       "kind": "FloatLiteral",
-      "offset": 2017,
+      "offset": 2010,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/OMSDKHandler.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/OMSDKHandler.swift",
       "kind": "StringLiteral",
-      "offset": 2097,
+      "offset": 2090,
       "length": 17,
       "value": "\"OMSDK onUnmuted\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/OMSDKHandler.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/OMSDKHandler.swift",
       "kind": "StringLiteral",
-      "offset": 2326,
+      "offset": 2319,
       "length": 24,
       "value": "\"OMSDK onSourceUnloaded\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/OMSDKHandler.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/OMSDKHandler.swift",
       "kind": "BooleanLiteral",
-      "offset": 2399,
+      "offset": 2392,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/OMSDKHandler.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/OMSDKHandler.swift",
       "kind": "StringLiteral",
-      "offset": 2488,
+      "offset": 2481,
       "length": 22,
       "value": "\"OMSDK onStallStarted\""
     },
     {
-      "filePath": "\/Users\/prathibha\/Documents\/MediaKind\/MKP\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/OMSDKHandler.swift",
+      "filePath": "\/Users\/karthi\/Work\/Codes\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/OMSDKHandler.swift",
       "kind": "StringLiteral",
-      "offset": 2659,
+      "offset": 2652,
       "length": 20,
       "value": "\"OMSDK onStallEnded\""
     }
