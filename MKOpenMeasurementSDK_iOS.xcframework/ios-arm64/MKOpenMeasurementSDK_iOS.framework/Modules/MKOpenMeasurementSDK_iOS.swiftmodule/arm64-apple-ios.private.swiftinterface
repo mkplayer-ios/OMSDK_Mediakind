@@ -16,25 +16,25 @@ import _StringProcessing
 import _SwiftConcurrencyShims
 @objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers final public class MKPOMManager : ObjectiveC.NSObject {
   public static let shared: MKOpenMeasurementSDK_iOS.MKPOMManager
-  final public var playerEventListener: (any MKPlayer.MKPPlayerEventListener)?
+  final public var playerEventListener: (any MKPPlayerEventListener)?
   @objc deinit
 }
 public class OMSDKHandler {
   public init()
-  public init(withPlayer: any MKPlayer.MKPPlayerAPI, playerView: UIKit.UIView)
+  public init(withPlayer: any MKPPlayerAPI, playerView: UIKit.UIView)
   @objc deinit
 }
-extension MKOpenMeasurementSDK_iOS.OMSDKHandler : MKPlayer.MKPPlayerEventListener {
-  public func onAdStarted(event: MKPlayer.MKPAdStartedEvent)
-  public func onAdQuartile(event: MKPlayer.MKPAdQuartileEvent)
-  public func onAdBreakStarted(event: MKPlayer.MKPAdBreakStartedEvent)
-  public func onAdFinished(event: MKPlayer.MKPAdFinishedEvent)
-  public func onAdBreakEnd(event: MKPlayer.MKPAdBreakEndEvent)
-  public func onPlay(event: MKPlayer.MKPPlayEvent)
-  public func onPaused(event: MKPlayer.MKPPausedEvent)
-  public func onMuted(event: MKPlayer.MKPMutedEvent)
-  public func onUnmuted(event: MKPlayer.MKPUnmutedEvent)
-  public func onSourceUnloaded(event: MKPlayer.MKPSourceUnloadedEvent)
-  public func onStallStarted(event: MKPlayer.MKPStallStartedEvent)
-  public func onStallEnded(event: MKPlayer.MKPStallEndedEvent)
+extension MKOpenMeasurementSDK_iOS.OMSDKHandler : MKPPlayerEventListener {
+  public func onAdStarted(event: MKPAdStartedEvent)
+  public func onAdQuartile(event: MKPAdQuartileEvent)
+  public func onAdBreakStarted(event: MKPAdBreakStartedEvent)
+  public func onAdFinished(event: MKPAdFinishedEvent)
+  public func onAdBreakEnd(event: MKPAdBreakEndEvent)
+  public func onPlay(event: MKPPlayEvent)
+  public func onPaused(event: MKPPausedEvent)
+  public func onMuted(event: MKPMutedEvent)
+  public func onUnmuted(event: MKPUnmutedEvent)
+  public func onSourceUnloaded(event: MKPSourceUnloadedEvent)
+  public func onStallStarted(event: MKPStallStartedEvent)
+  public func onStallEnded(event: MKPStallEndedEvent)
 }
