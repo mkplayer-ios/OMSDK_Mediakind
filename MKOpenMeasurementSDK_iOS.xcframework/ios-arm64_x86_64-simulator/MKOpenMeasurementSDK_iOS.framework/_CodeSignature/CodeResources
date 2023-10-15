@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/MKOpenMeasurementSDK_iOS.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		FTj4KggCH/um5JaKC3wXRWFs18w=
+		/S6xYA/YeQsPA2FxhkECcSpW+oU=
 		</data>
 		<key>Modules/MKOpenMeasurementSDK_iOS.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/MKOpenMeasurementSDK_iOS.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		oY053XDD7br7UZ6U9BEYPhvvbik=
+		t+J/vlw5FheZilQ19yvfVsrGvKk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -109,7 +109,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NczC3TB2p00DWEkaabDfRnAyuPhtW6bYE7l7VGAe7h4=
+			iIOSMwagHSQ5g8rT0/obCth/tw65XmnC7Vn3DkTxdPw=
 			</data>
 		</dict>
 		<key>Modules/MKOpenMeasurementSDK_iOS.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -144,7 +144,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nMhMzs8orOyQ/gpt4pvZgVazmJE0NqzhvG6u1nslgaQ=
+			mZPi2rN1BfNmiIswle6B6f9zDI/kJZS4xlXoCYvYi3I=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
