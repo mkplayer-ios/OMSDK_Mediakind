@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/MKOpenMeasurementSDK_iOS-Swift.h</key>
 		<data>
-		taWwfYsiFjUiyB/wJ+trukSF9Nw=
+		tdtExgRq93s4c/97MtaoX7RjNps=
 		</data>
 		<key>Headers/MKOpenMeasurementSDK_iOS.h</key>
 		<data>
@@ -14,31 +14,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		GTWcd9XKy5Vriqa4U8WJai5MN8Y=
+		TEr7OBZ72fxCIHnzmpgyWC781pk=
 		</data>
 		<key>Modules/MKOpenMeasurementSDK_iOS.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		2EeWXjG4VyYFvN+Y+asv20wcpqU=
+		qfOijF5T0qxD4LBNB15SdJksJsc=
 		</data>
 		<key>Modules/MKOpenMeasurementSDK_iOS.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		mZwysBxJ9YCUaWS6hhS52FGTTfo=
+		SUnAp68ugLi6EaE93RNpcOKCY1s=
 		</data>
 		<key>Modules/MKOpenMeasurementSDK_iOS.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		N+OZ/jxKBawepsE1oOHuVaTbVLE=
+		AkfP17B4cA8EBP2pVLHDGBbLq18=
 		</data>
 		<key>Modules/MKOpenMeasurementSDK_iOS.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		mZwysBxJ9YCUaWS6hhS52FGTTfo=
+		SUnAp68ugLi6EaE93RNpcOKCY1s=
 		</data>
 		<key>Modules/MKOpenMeasurementSDK_iOS.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		QV9hNp8jZez2cKVP8NIS3Z5paUo=
+		wnEBOueJWsP4kPS+XmMsW/0JfZY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		6PPIhqgZqqnbvf4gvBzA0Z5QpZI=
+		lyLQPddcZ7x1GVt3I5hxNAQDrVo=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -47,7 +47,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xEqe0yJy2bGhetFHzWBfSFq/kDP9czKI/ymxd4RE5Hc=
+			+bx1Kz/yFKzmHckIBs+Rk9mJNCWtjsSfpbpxtvWuyVs=
 			</data>
 		</dict>
 		<key>Headers/MKOpenMeasurementSDK_iOS.h</key>
@@ -61,42 +61,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7Olc/N6JWHTyKFztSsNj4LI18S+tjQtj8Bb/+YQPs68=
+			jkoTPHk9M4mkLFvnphlRl0k4ubifvecqBYDy/fahJJI=
 			</data>
 		</dict>
 		<key>Modules/MKOpenMeasurementSDK_iOS.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VHsTWnzOFky4xvdEssNJOv+CRhKiSTvKKv1sbw+Wz/A=
+			PKq7MzXh+1A4ussLzRPqrg2IqH9RrGhpL603qnOTUME=
 			</data>
 		</dict>
 		<key>Modules/MKOpenMeasurementSDK_iOS.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Zrn4cWSOiIqER9LQTa51Hjwv4IciXatwbwwWolvoX/Q=
+			hWpvacYHTnMjRJEVmLQ8dVvUv1KUNS56qSqt926ZxxY=
 			</data>
 		</dict>
 		<key>Modules/MKOpenMeasurementSDK_iOS.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VHsTWnzOFky4xvdEssNJOv+CRhKiSTvKKv1sbw+Wz/A=
+			PKq7MzXh+1A4ussLzRPqrg2IqH9RrGhpL603qnOTUME=
 			</data>
 		</dict>
 		<key>Modules/MKOpenMeasurementSDK_iOS.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fnZrLpxqECZoZ+1xpFCuGc8KQNpHQIdwZQyZNu4t2Us=
+			PAC2N1FFqcFfYKLWM9kAtgZj2fcB5Za78kD/c+exl1A=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			n7IehcMgd+FMHhQnlRcBlJcQar8xdl0nmMfA6nxOANg=
+			y4AyUZmHDvYS3tv8gJb6LRl2s/+oi9ewr7Fxb3EGArQ=
 			</data>
 		</dict>
 	</dict>
