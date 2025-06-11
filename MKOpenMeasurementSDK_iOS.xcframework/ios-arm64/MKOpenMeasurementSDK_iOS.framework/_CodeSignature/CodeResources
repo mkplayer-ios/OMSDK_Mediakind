@@ -4,9 +4,25 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Frameworks/OMSDK_Nba.framework/Info.plist</key>
+		<data>
+		22b4DvH1KuQEQ5nWIJGbOZU2x7Q=
+		</data>
+		<key>Frameworks/OMSDK_Nba.framework/OMSDK_Nba</key>
+		<data>
+		jIcoptB+aUlCramoSlW0B6OWDCs=
+		</data>
+		<key>Frameworks/OMSDK_Nba.framework/PrivacyInfo.xcprivacy</key>
+		<data>
+		7BgfS40JHW2Znl7afTrGvxB58Ws=
+		</data>
+		<key>Frameworks/OMSDK_Nba.framework/_CodeSignature/CodeResources</key>
+		<data>
+		0r9BQLZiTgNXzk31qxhiGZ8lQuo=
+		</data>
 		<key>Headers/MKOpenMeasurementSDK_iOS-Swift.h</key>
 		<data>
-		tdtExgRq93s4c/97MtaoX7RjNps=
+		+Hj/tUm6sgGnAJN+PRNkEW/jk78=
 		</data>
 		<key>Headers/MKOpenMeasurementSDK_iOS.h</key>
 		<data>
@@ -14,27 +30,27 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		TEr7OBZ72fxCIHnzmpgyWC781pk=
+		dqPl4v4zi0rAd1+IZQtl7fYnZws=
 		</data>
 		<key>Modules/MKOpenMeasurementSDK_iOS.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		qfOijF5T0qxD4LBNB15SdJksJsc=
+		IEBABwRXWAldeGCLv3LawtT052M=
 		</data>
 		<key>Modules/MKOpenMeasurementSDK_iOS.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		SUnAp68ugLi6EaE93RNpcOKCY1s=
+		PMGBeWwczoIar8XhyaCjoUg3fiI=
 		</data>
 		<key>Modules/MKOpenMeasurementSDK_iOS.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		AkfP17B4cA8EBP2pVLHDGBbLq18=
+		+mNHFMCRoNYxd3T1BhX/YKY3O8A=
 		</data>
 		<key>Modules/MKOpenMeasurementSDK_iOS.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		SUnAp68ugLi6EaE93RNpcOKCY1s=
+		PMGBeWwczoIar8XhyaCjoUg3fiI=
 		</data>
 		<key>Modules/MKOpenMeasurementSDK_iOS.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		wnEBOueJWsP4kPS+XmMsW/0JfZY=
+		WqHefmaikYbWhMfhDhcRKNqtSOM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -43,11 +59,39 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Frameworks/OMSDK_Nba.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zSgxgf6zOqtlT5iff1Vt93Vsb5a5xjgzg+0nGq53L7U=
+			</data>
+		</dict>
+		<key>Frameworks/OMSDK_Nba.framework/OMSDK_Nba</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pxDZAf+YoS8W54gmIhLCJapYGa/Pg1q/+Rihxn4qQwo=
+			</data>
+		</dict>
+		<key>Frameworks/OMSDK_Nba.framework/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5rdpDTW6MDoz1u2y0rCJB5ensp/KZWPv7EAq4o8GtfM=
+			</data>
+		</dict>
+		<key>Frameworks/OMSDK_Nba.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BD2zdk3tKhLgseBAI0Qoze8N4HNVgIq6S0uyxj5aW98=
+			</data>
+		</dict>
 		<key>Headers/MKOpenMeasurementSDK_iOS-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+bx1Kz/yFKzmHckIBs+Rk9mJNCWtjsSfpbpxtvWuyVs=
+			Eezr9ghp/4wQx7G1iq2gxvf3LpSvDdSVnaxbgkfslr0=
 			</data>
 		</dict>
 		<key>Headers/MKOpenMeasurementSDK_iOS.h</key>
@@ -61,35 +105,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jkoTPHk9M4mkLFvnphlRl0k4ubifvecqBYDy/fahJJI=
+			f7r2Q4zEft+V1EeIzq7FMW21tRbEPkGBh6Y5ofDUe7M=
 			</data>
 		</dict>
 		<key>Modules/MKOpenMeasurementSDK_iOS.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PKq7MzXh+1A4ussLzRPqrg2IqH9RrGhpL603qnOTUME=
+			NyworBgOjQKOGETzRjiIGwfQ1r6I7efJmxsCYlDx4oI=
 			</data>
 		</dict>
 		<key>Modules/MKOpenMeasurementSDK_iOS.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hWpvacYHTnMjRJEVmLQ8dVvUv1KUNS56qSqt926ZxxY=
+			5XYfCf9TxPbXeulJA28NXK6rl+AFLtqThXP9xRVUzJQ=
 			</data>
 		</dict>
 		<key>Modules/MKOpenMeasurementSDK_iOS.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PKq7MzXh+1A4ussLzRPqrg2IqH9RrGhpL603qnOTUME=
+			NyworBgOjQKOGETzRjiIGwfQ1r6I7efJmxsCYlDx4oI=
 			</data>
 		</dict>
 		<key>Modules/MKOpenMeasurementSDK_iOS.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PAC2N1FFqcFfYKLWM9kAtgZj2fcB5Za78kD/c+exl1A=
+			Uq2eioGJlOC3dAf+JAlibNGAXXoSgUTsaAWChK/W0Vc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

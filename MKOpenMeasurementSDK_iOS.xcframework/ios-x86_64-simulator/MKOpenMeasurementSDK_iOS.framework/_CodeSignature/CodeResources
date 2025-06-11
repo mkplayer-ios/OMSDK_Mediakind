@@ -4,9 +4,25 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Frameworks/OMSDK_Nba.framework/Info.plist</key>
+		<data>
+		l0s4x/gsCAss/SDpBuSzW6iKgXU=
+		</data>
+		<key>Frameworks/OMSDK_Nba.framework/OMSDK_Nba</key>
+		<data>
+		Mod6XjDaVzzoyTzkSQgbITgQTW0=
+		</data>
+		<key>Frameworks/OMSDK_Nba.framework/PrivacyInfo.xcprivacy</key>
+		<data>
+		7BgfS40JHW2Znl7afTrGvxB58Ws=
+		</data>
+		<key>Frameworks/OMSDK_Nba.framework/_CodeSignature/CodeResources</key>
+		<data>
+		KF8sFj7dde3tZde7OIAw1cbsUBA=
+		</data>
 		<key>Headers/MKOpenMeasurementSDK_iOS-Swift.h</key>
 		<data>
-		W4nYDoR6GfTHRuxlQysLWq7jxcU=
+		Auap1dFS6h+VZUueW1cNASXJ1LY=
 		</data>
 		<key>Headers/MKOpenMeasurementSDK_iOS.h</key>
 		<data>
@@ -14,27 +30,27 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		tOvLbSROt/+E5gZCxEHVPWaNG4A=
+		5KXkuRj8hNDxkFy49Jsg7DwQ+4Y=
 		</data>
 		<key>Modules/MKOpenMeasurementSDK_iOS.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		qfOijF5T0qxD4LBNB15SdJksJsc=
+		IEBABwRXWAldeGCLv3LawtT052M=
 		</data>
 		<key>Modules/MKOpenMeasurementSDK_iOS.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		IiM+Tv/NT0k72hGyQvxl1Mave2c=
+		GdAk4zMTmmwqs0mtNKgIa9JeSvA=
 		</data>
 		<key>Modules/MKOpenMeasurementSDK_iOS.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		cyWp8NfOu04U4QopQWrLWdoVTtQ=
+		+pYG/QGq7qczCpzz6WcjxXWqYic=
 		</data>
 		<key>Modules/MKOpenMeasurementSDK_iOS.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		IiM+Tv/NT0k72hGyQvxl1Mave2c=
+		GdAk4zMTmmwqs0mtNKgIa9JeSvA=
 		</data>
 		<key>Modules/MKOpenMeasurementSDK_iOS.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		vrQpZ9mNio5rTXOc0graROqTGhE=
+		pZYKzyX3/MzOVyq7rNPEhnK95U4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -43,11 +59,39 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Frameworks/OMSDK_Nba.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VxYR8gkjROblvYgZVRZFJGiLaS8YDbMfFW1OZdDW8eo=
+			</data>
+		</dict>
+		<key>Frameworks/OMSDK_Nba.framework/OMSDK_Nba</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UfHBcOTRcaCHK4uYf0+K3Te0lqNhVAbHYIG7HYIrwvc=
+			</data>
+		</dict>
+		<key>Frameworks/OMSDK_Nba.framework/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5rdpDTW6MDoz1u2y0rCJB5ensp/KZWPv7EAq4o8GtfM=
+			</data>
+		</dict>
+		<key>Frameworks/OMSDK_Nba.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JSLP5Ha+S/ZQWvjX6/lihHkkB0zQn6zhobCSyfjVpPs=
+			</data>
+		</dict>
 		<key>Headers/MKOpenMeasurementSDK_iOS-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3X21IvKBPc9gyQCaFscx7zWAHq2Cpt4K+of8crVs7qo=
+			hOONPBXROtHPYEbr/nyl6vzsLPCQ34Ndz9H6hAjeflo=
 			</data>
 		</dict>
 		<key>Headers/MKOpenMeasurementSDK_iOS.h</key>
@@ -61,35 +105,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jkoTPHk9M4mkLFvnphlRl0k4ubifvecqBYDy/fahJJI=
+			f7r2Q4zEft+V1EeIzq7FMW21tRbEPkGBh6Y5ofDUe7M=
 			</data>
 		</dict>
 		<key>Modules/MKOpenMeasurementSDK_iOS.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PZBlxGJlLPsVog+7LMFti41ugt0ATzJK24zopSWLQrY=
+			vNYwNcZJD8FLuWDWbjtSFFDIheEW6gtrJNO/xdmtBAA=
 			</data>
 		</dict>
 		<key>Modules/MKOpenMeasurementSDK_iOS.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qPa2H3opvuIu9xh/UtbuejUuXb/nh2Kwe+nhRKOJrT8=
+			J2I0tUAjuxDGksKX3GG0rZlM1C6RzSUfWfXpI1QFKwM=
 			</data>
 		</dict>
 		<key>Modules/MKOpenMeasurementSDK_iOS.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PZBlxGJlLPsVog+7LMFti41ugt0ATzJK24zopSWLQrY=
+			vNYwNcZJD8FLuWDWbjtSFFDIheEW6gtrJNO/xdmtBAA=
 			</data>
 		</dict>
 		<key>Modules/MKOpenMeasurementSDK_iOS.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QIF68G6jOJoMO0pn83/PHHmbObWPeyEs2zsdsdCuW5o=
+			wuKU3YCKNXJ/7pk1x7O6u0q8+hu+dC5hr7GIPQKXhrY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

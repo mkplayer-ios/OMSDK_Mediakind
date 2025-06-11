@@ -1,0 +1,4 @@
+module OMSDK_Nba {
+    header "Headers/OMIDImports.h"
+    export *
+}

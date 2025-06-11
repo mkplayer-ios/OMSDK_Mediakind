@@ -23,8 +23,8 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .target(
             name: "OMSDK_MediakindPackage",
-            dependencies: ["OMSDK_Turner","MKOpenMeasurementSDK_iOS"]),
-        .binaryTarget(name:"OMSDK_Turner" , path: "OMSDK_Turner.xcframework"),
+            dependencies: ["OMSDK_Nba","MKOpenMeasurementSDK_iOS"]),
+        .binaryTarget(name:"OMSDK_Nba" , path: "OMSDK_Nba.xcframework"),
         .binaryTarget(name:"MKOpenMeasurementSDK_iOS" , path: "MKOpenMeasurementSDK_iOS.xcframework")
     ]
 )
