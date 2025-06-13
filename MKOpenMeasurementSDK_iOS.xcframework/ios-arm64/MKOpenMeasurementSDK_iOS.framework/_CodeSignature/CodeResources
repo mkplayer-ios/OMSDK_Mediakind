@@ -10,7 +10,7 @@
 		</data>
 		<key>Frameworks/OMSDK_Nba.framework/OMSDK_Nba</key>
 		<data>
-		jIcoptB+aUlCramoSlW0B6OWDCs=
+		sUPSAE/hp/VMoAEiSV5gQpp4Cnk=
 		</data>
 		<key>Frameworks/OMSDK_Nba.framework/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/MKOpenMeasurementSDK_iOS.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		IEBABwRXWAldeGCLv3LawtT052M=
+		Tx2jqgFcxrXp5HAiTjG0+ncRsoI=
 		</data>
 		<key>Modules/MKOpenMeasurementSDK_iOS.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/MKOpenMeasurementSDK_iOS.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		WqHefmaikYbWhMfhDhcRKNqtSOM=
+		HmMC2ZG4o8TUxQfFeZOGQEvjx60=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -70,7 +70,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pxDZAf+YoS8W54gmIhLCJapYGa/Pg1q/+Rihxn4qQwo=
+			V+CAbKymn0M5ppmj4uII8Xg0RJTcHfah1q4T6cz2yG0=
 			</data>
 		</dict>
 		<key>Frameworks/OMSDK_Nba.framework/PrivacyInfo.xcprivacy</key>
@@ -105,7 +105,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			f7r2Q4zEft+V1EeIzq7FMW21tRbEPkGBh6Y5ofDUe7M=
+			YviZNy3nAnIvD8hrxM5GzZY6hv9+RvfG8GfZToLIDU8=
 			</data>
 		</dict>
 		<key>Modules/MKOpenMeasurementSDK_iOS.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -133,7 +133,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Uq2eioGJlOC3dAf+JAlibNGAXXoSgUTsaAWChK/W0Vc=
+			hr8s7/3sDeVoy2h1XIFLy9wO0/v3vqr20+sJTziy3tQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

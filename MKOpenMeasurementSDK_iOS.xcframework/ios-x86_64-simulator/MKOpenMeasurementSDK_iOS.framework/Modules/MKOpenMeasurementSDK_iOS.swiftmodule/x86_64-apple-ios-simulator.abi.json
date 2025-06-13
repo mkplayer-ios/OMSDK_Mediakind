@@ -765,37 +765,37 @@
     {
       "filePath": "\/Users\/mka-9022\/openMeasureSDK\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 1410,
+      "offset": 1406,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mka-9022\/openMeasureSDK\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 1516,
+      "offset": 1512,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mka-9022\/openMeasureSDK\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2060,
+      "offset": 2056,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mka-9022\/openMeasureSDK\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
-      "offset": 13021,
+      "offset": 13013,
       "length": 5,
       "value": "\"NBA\""
     },
     {
       "filePath": "\/Users\/mka-9022\/openMeasureSDK\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPOMManager.swift",
       "kind": "StringLiteral",
-      "offset": 13050,
-      "length": 82,
-      "value": "\"https:\/\/mkplayer.blob.core.windows.net\/$web\/openmeasurement\/ios_tvos\/omsdk_v1.js\""
+      "offset": 13042,
+      "length": 86,
+      "value": "\"https:\/\/mkplayer.blob.core.windows.net\/$web\/openmeasurement\/ios_tvos\/NBA\/omsdk-v1.js\""
     },
     {
       "filePath": "\/Users\/mka-9022\/openMeasureSDK\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/MKOpenMeasurementSDK-iOS\/OMSDKManager\/MKPLog.swift",
